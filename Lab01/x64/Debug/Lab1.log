@@ -1,0 +1,38 @@
+﻿Сборка начата 17.02.2021 12:50:06.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\User\Documents\кгиг\--\Lab1\Lab1\Lab1.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "x64\Debug\LAB.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Файл "x64\Debug\LAB.pch" удаляется.
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\HostX86\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /Od /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"x64\Debug\LAB.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc142.pdb" /Gd /TP /FC /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\HostX86\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /Od /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"x64\Debug\LAB.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc142.pdb" /Gd /TP /FC /errorReport:prompt CApp.cpp CMatrix.cpp CMainWin.cpp
+         CApp.cpp
+     1>C:\Users\User\Documents\кгиг\--\Lab1\Lab1\CApp.cpp(7,1): error C2556: bool CApp::InitInstance(void): перегруженная функция отличается от "BOOL CApp::InitInstance(void)" только возвращаемым типом
+       C:\Users\User\Documents\кгиг\--\Lab1\Lab1\CApp.h(8): message : см. объявление "CApp::InitInstance"
+     1>C:\Users\User\Documents\кгиг\--\Lab1\Lab1\CApp.cpp(6,12): error C2371: CApp::InitInstance: переопределение; различные базовые типы
+       C:\Users\User\Documents\кгиг\--\Lab1\Lab1\CApp.h(8): message : см. объявление "CApp::InitInstance"
+     1>C:\Users\User\Documents\кгиг\--\Lab1\Lab1\CApp.cpp(9,25): error C2065: sw_restore: необъявленный идентификатор
+         CMatrix.cpp
+     1>C:\Users\User\Documents\кгиг\--\Lab1\Lab1\CMatrix.cpp(36,15): warning C4066: знаки после первого в константе из двухбайтовых знаков пропускаются
+         CMainWin.cpp
+         Создание кода...
+     1>Сборка проекта "C:\Users\User\Documents\кгиг\--\Lab1\Lab1\Lab1.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "C:\Users\User\Documents\кгиг\--\Lab1\Lab1\Lab1.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\User\Documents\кгиг\--\Lab1\Lab1\CMatrix.cpp(36,15): warning C4066: знаки после первого в константе из двухбайтовых знаков пропускаются
+
+
+       "C:\Users\User\Documents\кгиг\--\Lab1\Lab1\Lab1.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\User\Documents\кгиг\--\Lab1\Lab1\CApp.cpp(7,1): error C2556: bool CApp::InitInstance(void): перегруженная функция отличается от "BOOL CApp::InitInstance(void)" только возвращаемым типом
+         C:\Users\User\Documents\кгиг\--\Lab1\Lab1\CApp.cpp(6,12): error C2371: CApp::InitInstance: переопределение; различные базовые типы
+         C:\Users\User\Documents\кгиг\--\Lab1\Lab1\CApp.cpp(9,25): error C2065: sw_restore: необъявленный идентификатор
+
+    Предупреждений: 1
+    Ошибок: 3
+
+Прошло времени 00:00:04.90

@@ -1,0 +1,27 @@
+﻿Сборка начата 18.02.2021 10:37:29.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\User\Documents\кгиг\Lab01\Lab1\Lab1.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Lab1.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Lab1.pch" /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:prompt CMainWin.cpp
+         CMainWin.cpp
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\Documents\кгиг\Lab01\Debug\Lab1.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\Include\Manifest\dpiaware.manifest" /DEBUG:FASTLINK /PDB:"C:\Users\User\Documents\кгиг\Lab01\Debug\Lab1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\User\Documents\кгиг\Lab01\Debug\Lab1.lib" /MACHINE:X86 Debug\Resource.res
+         Debug\CApp.obj
+         Debug\CMatrix.obj
+         Debug\CMainWin.obj
+         Debug\stdafx.obj
+         Lab1.vcxproj -> C:\Users\User\Documents\кгиг\Lab01\Debug\Lab1.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Lab1.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lab1.tlog\Lab1.lastbuildstate".
+     1>Сборка проекта "C:\Users\User\Documents\кгиг\Lab01\Lab1\Lab1.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.91
