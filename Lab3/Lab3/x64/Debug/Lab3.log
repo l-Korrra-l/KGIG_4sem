@@ -1,0 +1,56 @@
+﻿Сборка начата 17.03.2021 17:02:38.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\User\Documents\кгиг\--\Lab3\Lab3\Lab3.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "x64\Debug\Lab3.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX86\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /Od /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"x64\Debug\Lab3.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc142.pdb" /Gd /TP /FC /errorReport:prompt CMainWin.cpp
+         CMainWin.cpp
+     1>C:\Users\User\Documents\кгиг\--\Lab3\Lab3\CMainWin.cpp(36,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\--\Lab3\Lab3\CMainWin.cpp(36,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\--\Lab3\Lab3\CMainWin.cpp(117,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\--\Lab3\Lab3\CMainWin.cpp(125,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\--\Lab3\Lab3\CMainWin.cpp(153,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\--\Lab3\Lab3\CMainWin.cpp(175,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\--\Lab3\Lab3\CMainWin.cpp(197,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\--\Lab3\Lab3\CMainWin.cpp(219,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\--\Lab3\Lab3\CMainWin.cpp(241,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\--\Lab3\Lab3\CMainWin.cpp(258,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\--\Lab3\Lab3\CMainWin.cpp(275,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\--\Lab3\Lab3\CMainWin.cpp(292,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX86\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\Documents\кгиг\--\Lab3\x64\Debug\Lab3.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\Include\Manifest\dpiaware.manifest" /DEBUG:FASTLINK /PDB:"C:\Users\User\Documents\кгиг\--\Lab3\x64\Debug\Lab3.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\User\Documents\кгиг\--\Lab3\x64\Debug\Lab3.lib" /MACHINE:X64 x64\Debug\Lab3.res
+         x64\Debug\CApp.obj
+         x64\Debug\CMainWin.obj
+         x64\Debug\CMatrix.obj
+         x64\Debug\Functions.obj
+         x64\Debug\stdafx.obj
+         Lab3.vcxproj -> C:\Users\User\Documents\кгиг\--\Lab3\x64\Debug\Lab3.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\Lab3.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\Lab3.tlog\Lab3.lastbuildstate".
+     1>Сборка проекта "C:\Users\User\Documents\кгиг\--\Lab3\Lab3\Lab3.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\Users\User\Documents\кгиг\--\Lab3\Lab3\Lab3.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\User\Documents\кгиг\--\Lab3\Lab3\CMainWin.cpp(36,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\--\Lab3\Lab3\CMainWin.cpp(36,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\--\Lab3\Lab3\CMainWin.cpp(117,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\--\Lab3\Lab3\CMainWin.cpp(125,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\--\Lab3\Lab3\CMainWin.cpp(153,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\--\Lab3\Lab3\CMainWin.cpp(175,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\--\Lab3\Lab3\CMainWin.cpp(197,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\--\Lab3\Lab3\CMainWin.cpp(219,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\--\Lab3\Lab3\CMainWin.cpp(241,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\--\Lab3\Lab3\CMainWin.cpp(258,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\--\Lab3\Lab3\CMainWin.cpp(275,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\--\Lab3\Lab3\CMainWin.cpp(292,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+
+    Предупреждений: 12
+    Ошибок: 0
+
+Прошло времени 00:00:00.65
