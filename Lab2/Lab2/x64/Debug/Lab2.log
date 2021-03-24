@@ -1,0 +1,25 @@
+﻿Сборка начата 22.02.2021 10:44:17.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\User\Documents\кгиг\--\Lab2\Lab2\Lab2.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "x64\Debug\Lab2.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         Для всех выходных данных обновления не требуется.
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\10\bin\10.0.18362.0\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0419" /Ix64\Debug\ /nologo /fo"x64\Debug\Lab2.res" Lab2.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\HostX86\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\Documents\кгиг\--\Lab2\x64\Debug\Lab2.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\Include\Manifest\dpiaware.manifest" /DEBUG:FASTLINK /PDB:"C:\Users\User\Documents\кгиг\--\Lab2\x64\Debug\Lab2.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\User\Documents\кгиг\--\Lab2\x64\Debug\Lab2.lib" /MACHINE:X64 x64\Debug\Lab2.res
+         x64\Debug\CApp.obj
+         x64\Debug\CMainWin.obj
+         x64\Debug\stdafx.obj
+         Lab2.vcxproj -> C:\Users\User\Documents\кгиг\--\Lab2\x64\Debug\Lab2.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\Lab2.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\Lab2.tlog\Lab2.lastbuildstate".
+     1>Сборка проекта "C:\Users\User\Documents\кгиг\--\Lab2\Lab2\Lab2.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.57
