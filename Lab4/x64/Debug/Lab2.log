@@ -1,0 +1,137 @@
+﻿Сборка начата 01.04.2021 14:40:35.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\User\Documents\кгиг\Lab4\Lab2.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "x64\Debug\Lab2.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX86\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"x64\Debug\Lab2.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc142.pdb" /Gd /TP /FC /errorReport:prompt LibChart2D.cpp
+         LibChart2D.cpp
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(90,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(90,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(90,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(90,15): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(91,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(91,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(91,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(91,17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(92,29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(92,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(92,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(92,16): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(93,41): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(93,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(93,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(93,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(94,36): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(94,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(94,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(94,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(97,38): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(97,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(97,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(97,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(98,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(98,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(98,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(98,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(99,49): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(99,41): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(99,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(99,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(100,44): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(100,38): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(100,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(100,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(200,91): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(200,70): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(200,49): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(200,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(212,91): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(212,70): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(212,49): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(212,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(217,99): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(217,76): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(217,53): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(217,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(222,87): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(222,67): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(222,47): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(222,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX86\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\Documents\кгиг\Lab4\x64\Debug\Lab2.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\Include\Manifest\dpiaware.manifest" /DEBUG:FASTLINK /PDB:"C:\Users\User\Documents\кгиг\Lab4\x64\Debug\Lab2.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\User\Documents\кгиг\Lab4\x64\Debug\Lab2.lib" /MACHINE:X64 x64\Debug\Lab2.res
+         x64\Debug\ChildView.obj
+         x64\Debug\CMatrix.obj
+         x64\Debug\Lab2.obj
+         x64\Debug\MainFrm.obj
+         x64\Debug\LibChart2D.obj
+         x64\Debug\stdafx.obj
+         Lab2.vcxproj -> C:\Users\User\Documents\кгиг\Lab4\x64\Debug\Lab2.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\Lab2.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\Lab2.tlog\Lab2.lastbuildstate".
+     1>Сборка проекта "C:\Users\User\Documents\кгиг\Lab4\Lab2.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\Users\User\Documents\кгиг\Lab4\Lab2.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(90,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(90,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(90,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(90,15): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(91,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(91,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(91,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(91,17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(92,29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(92,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(92,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(92,16): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(93,41): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(93,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(93,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(93,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(94,36): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(94,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(94,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(94,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(97,38): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(97,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(97,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(97,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(98,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(98,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(98,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(98,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(99,49): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(99,41): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(99,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(99,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(100,44): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(100,38): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(100,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(100,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(200,91): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(200,70): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(200,49): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(200,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(212,91): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(212,70): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(212,49): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(212,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(217,99): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(217,76): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(217,53): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(217,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(222,87): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(222,67): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(222,47): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\User\Documents\кгиг\Lab4\LibChart2D.cpp(222,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+
+    Предупреждений: 52
+    Ошибок: 0
+
+Прошло времени 00:00:00.64
