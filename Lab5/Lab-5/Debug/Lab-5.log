@@ -1,0 +1,23 @@
+﻿Сборка начата 13.05.2021 8:18:11.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\User\Documents\кгиг\Lab5\Lab-5\Lab-5.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\Lab-5.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\Documents\кгиг\Lab5\Debug\Lab-5.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\Include\Manifest\dpiaware.manifest" /DEBUG:FASTLINK /PDB:"C:\Users\User\Documents\кгиг\Lab5\Debug\Lab-5.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\User\Documents\кгиг\Lab5\Debug\Lab-5.lib" /MACHINE:X86 "Debug\Lab-5.res"
+         Debug\CMatrix.obj
+         Debug\main.obj
+         Lab-5.vcxproj -> C:\Users\User\Documents\кгиг\Lab5\Debug\Lab-5.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Lab-5.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lab-5.tlog\Lab-5.lastbuildstate".
+     1>Сборка проекта "C:\Users\User\Documents\кгиг\Lab5\Lab-5\Lab-5.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.33
